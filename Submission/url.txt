@@ -1,0 +1,6 @@
+1. Pandas Documentation: https://pandas.pydata.org/pandas-docs/stable/
+2. NumPy Documentation: https://numpy.org/doc/stable/
+3. Matplotlib Documentation: https://matplotlib.org/stable/contents.html
+4. Seaborn Documentation: https://seaborn.pydata.org/
+5. Bike Sharing Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
+6. Dashboard project : http://localhost:8501/
